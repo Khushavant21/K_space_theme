@@ -48,7 +48,7 @@ const HeroContent = () => {
         >
           I&apos;m a Full Stack Web Engineer, who create a Website,
           Web Page and
-          I'm also a Software Developer. Check out my projects and skills.
+          I am also a Software Developer. Check out my projects and skills.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
